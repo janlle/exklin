@@ -1,4 +1,4 @@
-package exklin
+package src
 
 import (
 	"math/rand"
